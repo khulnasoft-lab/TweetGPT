@@ -37,7 +37,7 @@
     "@keyv/redis": "^2.7.1",
     "cac": "^6.7.14",
     "chatgpt": "^5.1.1",
-    "conf": "^10.2.0",
+    "conf": "^12.0.0",
     "dotenv-safe": "^8.2.0",
     "execa": "^6.1.0",
     "fast-json-stable-stringify": "^2.1.0",
