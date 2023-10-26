@@ -39,7 +39,7 @@
     "chatgpt": "^5.1.1",
     "conf": "^10.2.0",
     "dotenv-safe": "^8.2.0",
-    "execa": "^6.1.0",
+    "execa": "^8.0.0",
     "fast-json-stable-stringify": "^2.1.0",
     "got": "^12.5.3",
     "highlight.js": "^11.7.0",
